@@ -91,7 +91,17 @@ HTML/CSS/JS
 ## ⚡ Mapa de Habilidades
 <div align="center">
 
-```white
+```mermaid
+%%{init: { 'theme': 'dark', 'themeVariables': { 
+    'primaryColor': '#00eaff',
+    'primaryTextColor': '#ffffff',
+    'primaryBorderColor': '#00eaff',
+    'lineColor': '#00eaff',
+    'secondaryColor': '#0aff99',
+    'tertiaryColor': '#7f00ff',
+    'fontSize': '16px'
+}} }%%
+
 mindmap
   root((João Vitor))
     Desenvolvimento
@@ -109,6 +119,7 @@ mindmap
         Google
         WhatsApp
     Suporte Técnico
-      Hardware
-      Redes
       Diagnóstico
+      Redes
+      Hardware
+
