@@ -92,18 +92,27 @@ HTML/CSS/JS
 <div align="center">
 
 ```mermaid
-%%{init: { 'theme': 'dark', 'themeVariables': { 
-    'primaryColor': '#00eaff',
-    'primaryTextColor': '#ffffff',
-    'primaryBorderColor': '#00eaff',
-    'lineColor': '#00eaff',
-    'secondaryColor': '#0aff99',
-    'tertiaryColor': '#7f00ff',
-    'fontSize': '16px'
+%%{init: { 'theme': 'default', 'themeVariables': { 
+    'background': '#ffffff',
+    'primaryColor': '#d4f1f9',        /* azul pastel */
+    'primaryTextColor': '#333333',
+    'primaryBorderColor': '#9cd3e6',
+
+    'secondaryColor': '#fae1dd',      /* rosa pastel */
+    'secondaryTextColor': '#333333',
+    'secondaryBorderColor': '#f5c2c0',
+
+    'tertiaryColor': '#e2f7d3',       /* verde pastel */
+    'tertiaryTextColor': '#333333',
+    'tertiaryBorderColor': '#b6e3a8',
+
+    'lineColor': '#777777',
+    'fontSize': '15px'
 }} }%%
 
 mindmap
   root((João Vitor))
+
     Desenvolvimento
       Front-end
         HTML
@@ -112,14 +121,15 @@ mindmap
       Back-end
         PHP
         MySQL
+
     Automação
       n8n
       Webhooks
       APIs
         Google
         WhatsApp
+
     Suporte Técnico
       Diagnóstico
       Redes
       Hardware
-
