@@ -91,7 +91,7 @@ HTML/CSS/JS
 ## ⚡ Mapa de Habilidades
 <div align="center">
 
-```mermaid
+```white
 mindmap
   root((João Vitor))
     Desenvolvimento
