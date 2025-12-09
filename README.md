@@ -1,7 +1,4 @@
-<!-- BANNER FUTURISTA -->
-<div align="center">
 
-<img src="https://i.imgur.com/ZLxFkcy.png" width="180" alt="Avatar Tron"/>
 
 # ⚡ João Vitor — Desenvolvedor em Formação  
 ### ADS (3º semestre) • Web Dev • Automação • n8n • São Paulo/SP  
