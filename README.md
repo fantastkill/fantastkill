@@ -115,21 +115,6 @@ Desenvolvedor em formação com **experiência prática** em desenvolvimento web
 - Estruturação de código limpo
 - Documentação completa
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fantastkill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00eaff&icon_color=00eaff&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fantastkill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00eaff&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fantastkill&theme=tokyonight&hide_border=true&background=0D1117&ring=00eaff&fire=00eaff&currStreakLabel=00eaff)
-
-</div>
-
----
 
 ## 🎓 Formação Acadêmica
 
@@ -156,9 +141,8 @@ Estou disponível para **oportunidades de estágio** e aberto a desafios que me 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-seu--email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Meu_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+[![Email](https://img.shields.io/badge/-seu--email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](contato.jvmatos@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511963379553)
 
 </div>
 
