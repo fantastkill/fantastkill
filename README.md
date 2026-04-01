@@ -117,10 +117,10 @@ Desenvolvedor em formação com **experiência prática** em desenvolvimento web
 
 ## 🎓 Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas** (3º semestre)  
+**Análise e Desenvolvimento de Sistemas** (4º semestre)  
 🔹 Foco em desenvolvimento web, banco de dados e engenharia de software  
 🔹 Projetos práticos aplicando metodologias ágeis  
-🔹 Previsão de conclusão: [ANO]
+🔹 Previsão de conclusão: [2027]
 
 ---
 
@@ -140,7 +140,7 @@ Estou disponível para **oportunidades de estágio** e aberto a desafios que me 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-seu--email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](contato.jvmatos@gmail.com)
+[![Email](https://img.shields.io/badge/-contato.jvmatos@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](contato.jvmatos@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511963379553)
 
 </div>
