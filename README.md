@@ -2,8 +2,8 @@
 
 # 👨‍💻 João Vitor | Desenvolvedor em Formação
 
-### Estudante de ADS (3º semestre) • Desenvolvimento Web Full-Stack • Automação de Processos
-📍 São Paulo, SP • 🎯 Buscando **Estágio em TI**
+### Estudante de ADS (4º semestre) • Desenvolvimento Web Full-Stack • Automação de Processos
+📍 São Paulo, SP • 🎯 Buscando **Vagas em TI**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/fantastkill)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](contato.jvmatos@gmail.com)
